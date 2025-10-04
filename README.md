@@ -1,13 +1,11 @@
 # 🌎 Global Electronics Retailer – Power BI Business Analysis  
 
-A comprehensive business analysis of a **global electronics retailer**, exploring key performance metrics across **sales, customers, stores, products, and exchange rates**.  
-This project leverages **Power BI** to uncover performance drivers, identify growth opportunities, and provide actionable insights for business decision-making.  
+A comprehensive business analysis of **global electronics retailer**, exploring key performance metrics across **sales, customers, stores, products, and exchange rates**. This project leverages **Power BI** to uncover performance drivers, identify growth opportunities, and provide actionable insights for business decision-making.  
 
 ---
 
 ## 📘 Overview  
-This project delivers an **exploratory analysis** of global retail operations with a focus on **sales trends, customer behavior, product performance, and store efficiency**.  
-By transforming raw data into clear, data-driven insights, the analysis aims to:  
+This project delivers an **exploratory analysis** of global retail operations with a focus on **sales trends, customer behavior, product performance, and store efficiency**. By transforming raw data into clear, data-driven insights, the analysis aims to:  
 - Support strategic decision-making  
 - Improve customer retention  
 - Identify growth opportunities across markets and product lines  
@@ -58,12 +56,12 @@ By transforming raw data into clear, data-driven insights, the analysis aims to:
 ---
 
 ## 📊 Dashboard Visualization  
-👉 **[View Interactive Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiYTNjOWJmOWMtNWRkZC00NzQ0LTg1OWEtMzM5ZWRiOWQwYjRhIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)
+👉 **[View Interactive Dashboard]** (https://app.powerbi.com/view?r=eyJrIjoiYTNjOWJmOWMtNWRkZC00NzQ0LTg1OWEtMzM5ZWRiOWQwYjRhIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)
 
 ---
 
 ## 🧾 Conclusion  
-The analysis reveals a **profitable and resilient business** with strong performance in the U.S. market and high-margin product segments.  However, the **sharp revenue decline (2020–2021)** and **customer attrition** highlight emerging operational and market challenges.  
+The analysis reveals a **profitable and resilient business** with strong performance in the U.S. market and high-margin product segments. However, the **sharp revenue decline (2020–2021)** and **customer attrition** highlight emerging operational and market challenges.  
 
 ---
 
