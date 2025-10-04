@@ -1,5 +1,6 @@
 # Global-Electronics-Retailer
 A comprehensive analysis of global electronics retailer, exploring key performance metrics across sales, customers, stores, exchange rate, and products. The project leverages data analytics to uncover patterns, performance gaps, and growth opportunities within the retail ecosystem.
+---
 
 ## 📌 Overview
 This project presents an exploratory analysis of global retail operations with a focus on understanding sales trends, customer behavior, product performance, and store efficiency. By transforming raw data into actionable insights, the analysis aims to support data-driven decision-making, enhance customer retention, and identify opportunities for revenue growth.
