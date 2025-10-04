@@ -47,7 +47,7 @@ By transforming raw data into clear, data-driven insights, the analysis aims to:
 
 - **Overall Performance:** Total **Revenue $55M**, **Cost $23M**, **Profit $32M**, with a **58.6% profit margin** and **198K units sold**.  
 - **Growth Trend:** In **2018**, all key metrics (Cost, Quantity, Revenue, Profit) grew by **over 70% YoY**.  
-- **Pandemic Impact:** **2020–2021** saw sharp declines — **Revenue down 49%** and **Profit down 89%**.  
+- **Pandemic Impact:** **Both 2020 and 2021 recorded sharp downturns, as Revenue and Profit declined by 49% and 89%, respectively, reflecting possible market disruptions**.  
 - **Top Markets:** The **U.S.** led with **$29.8M revenue**, **380% higher than Canada**, the next best-performing market.  
 - **Product Performance:** **Computers** generated the highest revenue and profit; **Games & Toys** underperformed.  
 - **High-Margin Segment:** **Music, Movies & Audio** achieved the highest profit margin at **61%**.  
@@ -58,13 +58,12 @@ By transforming raw data into clear, data-driven insights, the analysis aims to:
 ---
 
 ## 📊 Dashboard Visualization  
-👉 **[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTNjOWJmOWMtNWRkZC00NzQ0LTg1OWEtMzM5ZWRiOWQwYjRhIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)**  
+👉 **[View Interactive Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiYTNjOWJmOWMtNWRkZC00NzQ0LTg1OWEtMzM5ZWRiOWQwYjRhIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)
 
 ---
 
 ## 🧾 Conclusion  
-The analysis reveals a **profitable and resilient business** with strong performance in the U.S. market and high-margin product segments.  
-However, the **sharp revenue decline (2020–2021)** and **customer attrition** highlight emerging operational and market challenges.  
+The analysis reveals a **profitable and resilient business** with strong performance in the U.S. market and high-margin product segments.  However, the **sharp revenue decline (2020–2021)** and **customer attrition** highlight emerging operational and market challenges.  
 
 ---
 
@@ -88,7 +87,7 @@ However, the **sharp revenue decline (2020–2021)** and **customer attrition** 
 Let’s connect or collaborate on data analytics and BI projects!  
 
 - **Name:** Opeyemi Ayodeji  
-- **LinkedIn:** [Opeyemi Ayodeji](https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
+- **LinkedIn:** [Opeyemi Ayodeji] (https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
 - **Email:** sopeyemi65@gmail.com  
 
 ---
