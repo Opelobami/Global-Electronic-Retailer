@@ -65,7 +65,20 @@ This project presents an exploratory analysis of global retail operations with a
 ---
 
 ## 📝 Conclusion  
-This analysis highlights critical drivers of customer behavior and provides actionable insights for improving customer experience, optimizing branch performance, and growing revenue.
+The analysis reveals a strong overall business performance with impressive profitability and dominant U.S. market share. However, the sharp revenue decline in 2020–2021 and the significant drop in customer retention signal emerging risks.
+
+## Recommendation
+1.**Strengthen customer retention programs**
+- Launch loyalty rewards, targeted re-engagement campaigns, and personalized offers for returning customers.
+
+2. **Diversification**
+- Diversify market focus by expanding high-performing product categories (e.g., Computers, Music & Audio) into underperforming regions like France, Netherland and Italy.
+
+3. **Leverage**
+- Leverage seasonal trends by optimizing inventory and marketing spend around peak months (January, February, and December).
+
+4. **Survey and Investigation**
+- Carry out customer survey and investigate declining segments such as Games & Toys to understand customer behavior and reposition or discontinue low-performing products.
 
 ---
 
