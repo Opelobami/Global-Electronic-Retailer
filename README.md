@@ -33,38 +33,19 @@ This project presents an exploratory analysis of global retail operations with a
 ---
 
 ## 📈 Key Insights  
-- *237 customers owns multiples account*  
-- *38% of the customers owns a savings account*
-- *Credit score is not a factor for loan approval* 
-- *Airbnb gets the most of the customers spending with a sum of $2.98m*
-- *Despite the shift to digital banking, branch is still more popular by 0.4% than internet banking*
-- *Southern branches makes much more profit than other region*
-- *Branch 13 in Caldwellburgh city makes the best profit margin of 95%*
-- *Branch 1 and 17 in West Loganmouth and Lake Lynnton respectively makes a profit margin of -61% and -39%*
-- *Average resolution time takes 27days*
-- *Charges dispute makes the top common complaint even for premium customers*
-- *19.29% of complaints were fraud and 28.33% of fraud complaints omes from the North*
-- *Low income bracket and females are much more affected by fraud than other income brackets and males*
--  54.17% of savings account complained mostly of fraud*
--  *61.67% of fraud complaint were resolved while 24.17% were active.
+- *KPI indicated Total Revenue to be $55m, Total cost $23m, Total Quantity Sold 198K, Profit $32m and Profit margin 58.58%*
+- *2018 saw a sharp increase in Cost, Quantity, Revenue and Profit by over 70% compared to Last Year*
+- *In 2020 and 2021, Cost, Quantity, Revenue and Profit dropped by 49% and 89% respectively*
+- *United State top the table as best performing country in terms of Revenue generating $29.8m and 380.6% higher than the second best; Canada*
+- *Computers sells the best in terms of Revenue and Profit while Games and Toys sold the least*
+- *With a profit margin of 61%, Music, Movies and Audio performed best* 
+- *Revenue, Profit, and Quantity Trend shows January, February and December as the month that peaked most*
+- *Matthew Flemming top as the highest spending customer with a value of $61872*
+- *92.9% of new customers and 85.6% of returning customers dropped in 2021.
 
 ---
 ## 📊 Dashboard Visuals  
-
-### 1. Customer Distribution  
-![Customer Distribution] (https://drive.google.com/file/d/10fwCZhNc0X_CaiMkOLef-wkvn3ihicgA/view?usp=drive_link)
-
-### 2. Account Analysis
-![Mapping out financial relationship] (https://drive.google.com/file/d/18OqnqAg9whWz5QJzqrqlMScGNR4xch0X/view?usp=drive_link)
-
-### 3. Transaction Dashboard  
-![Transaction Experience] (https://drive.google.com/file/d/1pjpDUfct9uSrxcyoUXFv77dfNkBxWZhD/view?usp=drive_link)
-
-### 4. Branch Analysis  
-![Branch Perfromance Review] (https://drive.google.com/file/d/1W3DM3b_EGUJcC-Gf6ac4WxYf6xTF8Euf/view?usp=drive_link)
-
-### 5. Customer Experience  
-![From complaints to Strategy] (https://drive.google.com/file/d/1yhHXujYFgvCI5YAJWeCMMzV84bqdu4GO/view?usp=drive_link)
+![Interact with the dashboard here] (https://app.powerbi.com/view?r=eyJrIjoiYTNjOWJmOWMtNWRkZC00NzQ0LTg1OWEtMzM5ZWRiOWQwYjRhIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)
 
 ### 6. Risk Intelligence  
 ![From Complaint to Strategy] (https://drive.google.com/file/d/1WuLtYxZX0Tp0ZxERRns5SqycQatvXtrf/view?usp=drive_link)
