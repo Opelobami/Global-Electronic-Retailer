@@ -1,31 +1,34 @@
-# Metro-Bank-Analysis
-Exploratory data analysis of Metro Bank Customer behavior, Transactions, Account, Branches, Customer Experience and Risk Intelligence using Excel.
-
-# Metro Bank Analysis  
+# Global-Electronics-Retailer
+A comprehensive analysis of global electronics retailer, exploring key performance metrics across sales, customers, stores, exchange rate, and products. The project leverages data analytics to uncover patterns, performance gaps, and growth opportunities within the retail ecosystem.
 
 ## 📌 Overview  
-This project is an exploratory data analysis of **Metro Bank**, focusing on customer behavior, transactions, accounts, branches, risk intelligence, and overall customer experience.
-
-The goal is to uncover insights that can support business decision-making, improve customer retention, and identify growth opportunities.  
-
+This project presents an exploratory analysis of global retail operations with a focus on understanding sales trends, customer behavior, product performance, and store efficiency. By transforming raw data into actionable insights, the analysis aims to support data-driven decision-making, enhance customer retention, and identify opportunities for revenue growth.
 ---
 
 ## 📊 Dataset  
-- **Source:** [Telegram group; Excel With Freedom]  
-- **Size:** [500-800 rows, 12-15 columns]  
-- **Key Fields:** Customer ID, Account ID, Region, Name, Gender, Income Bracket, Customer Segment, Account Type, Loan Status, Approved and Rejected Loan, Transaction ID, Merchant, Credit Score, Resolution Time, Complaint ID, Complaint Type, Branch ID, etc.  
-
+- **Source:** [PowerBI Bootcamp 10]  
+- **Key Fields:** Customer Key, Name, Birthday, Zipcode Product Name, Brand, Color, Unit Cost, Unit Price, Order Date, Delivery Date, Store Key, State, Country.  
 ---
 
 ## 🛠️ Tools & Technologies  
-- **Excel** – Data cleaning using Power Query, Pivot Tables and Charts for analysis and Visualizations, Power Pivot for Data Modeling, Calculated columns and Measures, Interactice Dashboards and Visualizations for Stakeholders.
+- **PowerBI** – ETL done using Power Query. Data Modeling, Calendar and Measure tables created. Interactice Dashboards and Visualizations for Stakeholders.
 ---
 
-## 🔎 Analysis Steps  
-1. **Data Cleaning:** Removed duplicates, handled missing values, standardized formats.  
-2. **Exploratory Analysis:** Summary statistics, customer segmentation, and trend analysis.
-3. **Data Analysis** Data Merging, Created Calculated Columns and Measures, Pivot tables, Power Pivot, Pivot Charts to solve Business Questions. 
-4. **Visualization:** Dashboards highlighting customer behavior, transaction behavior and pattern, financial relationship, branch review, customer experience and risk intelligence.
+## 🔎 Analysis Steps
+1. **Data Preparation:**
+- ETL done using Power query to ensure data accuracy, integrity and also standardized formats.
+
+2. **Data Modeling**
+- Created Fact and Dimension table.
+- Linked Dimension table to Fact table with the unique identifier.
+
+3. **Data Analysis**
+- Created Calendar table by writing DAX.
+- Created Measure table, YOY and Color table by writing DAX.
+- Created Calculated columns for Age, Age band, First-order-month, Store Age and Store Bucket.
+- Analyzed data to uncover insights and patterns that solve key business questions
+
+4. **Data Visualization:** Built interactive reports that answers key business questions and made recommendations that drives business growth.
 
 ---
 
