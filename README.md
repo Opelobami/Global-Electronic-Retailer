@@ -1,4 +1,4 @@
-# 🌎 Global Electronics Retailer – Power BI Business Analysis  
+# 🌐 Global Electronics Retailer – Power BI Business Analysis  
 
 A comprehensive business analysis of **global electronics retailer**, exploring key performance metrics across **sales, customers, stores, products, and exchange rates**. This project leverages **Power BI** to uncover performance drivers, identify growth opportunities, and provide actionable insights for business decision-making.  
 
