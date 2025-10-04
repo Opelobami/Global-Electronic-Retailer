@@ -1,91 +1,94 @@
-# Global-Electronics-Retailer
-A comprehensive analysis of global electronics retailer, exploring key performance metrics across sales, customers, stores, exchange rate, and products. The project leverages data analytics to uncover patterns, performance gaps, and growth opportunities within the retail ecosystem.
+# 🌎 Global Electronics Retailer – Power BI Business Analysis  
+
+A comprehensive business analysis of a **global electronics retailer**, exploring key performance metrics across **sales, customers, stores, products, and exchange rates**.  
+This project leverages **Power BI** to uncover performance drivers, identify growth opportunities, and provide actionable insights for business decision-making.  
 
 ---
 
-## 📌 Overview
-This project presents an exploratory analysis of global retail operations with a focus on understanding sales trends, customer behavior, product performance, and store efficiency. By transforming raw data into actionable insights, the analysis aims to support data-driven decision-making, enhance customer retention, and identify opportunities for revenue growth.
+## 📘 Overview  
+This project delivers an **exploratory analysis** of global retail operations with a focus on **sales trends, customer behavior, product performance, and store efficiency**.  
+By transforming raw data into clear, data-driven insights, the analysis aims to:  
+- Support strategic decision-making  
+- Improve customer retention  
+- Identify growth opportunities across markets and product lines  
 
 ---
 
 ## 📊 Dataset  
-- **Source:** [PowerBI Bootcamp 10]  
-- **Key Fields:** Customer Key, Name, Birthday, Zipcode Product Name, Brand, Color, Unit Cost, Unit Price, Order Date, Delivery Date, Store Key, State, Country.  
+- **Source:** Power BI Bootcamp (Dataset 10)  
+- **Key Fields:** Customer Key, Name, Birthday, Zipcode, Product Name, Brand, Color, Unit Cost, Unit Price, Order Date, Delivery Date, Store Key, State, Country  
 
 ---
 
-## 🛠️ Tools & Technologies  
-- **PowerBI** – ETL done using Power Query. Data Modeling, Calendar and Measure tables created. Interactice Dashboards and Visualizations for Stakeholders.
+## 🧰 Tools & Technologies  
+- **Power BI** – Used for ETL via Power Query, Data Modeling, DAX Calculations, and Interactive Dashboard Development  
 
 ---
 
-## 🔎 Analysis Steps
-1. **Data Preparation:**
-- ETL done using Power query to ensure data accuracy, integrity and also standardized formats.
+## 🔎 Analysis Workflow  
 
-2. **Data Modeling:**
-- Created Fact and Dimension table.
-- Linked Dimension table to Fact table with the unique identifier.
+1. **Data Preparation**  
+   - Cleaned and transformed data using Power Query to ensure consistency, accuracy, and integrity.  
 
-3. **Data Analysis:**
-- Created Calendar table by writing DAX.
-- Created Measure table, YOY and Color table by writing DAX.
-- Created Calculated columns for Age, Age band, First-order-month, Store Age and Store Bucket.
-- Analyzed data to uncover insights and patterns that solve key business questions
+2. **Data Modeling**  
+   - Created Fact and Dimension tables, and established relationships using unique identifiers.  
 
-4. **Data Visualization:**
-- Built interactive reports that answers key business questions and made recommendations that drives business growth.
+3. **Data Analysis**  
+   - Built Calendar, Measure, YOY, and Color tables using DAX.  
+   - Created calculated columns such as *Age*, *Age Band*, *Store Age*, and *Store Bucket* for deeper analysis.  
+   - Performed descriptive and comparative analysis to uncover key business insights.  
 
----
-
-## 📈 Key Insights  
-- *Overall Performance: The retailer achieved a total revenue of $55M, total cost of $23M, and total profit of $32M, resulting in a strong profit margin of 58.6% across 198K units sold*
-
-- *Year-over-Year Growth: In 2018, the business experienced significant expansion — with Cost, Quantity, Revenue, and Profit increasing by over 70% compared to the previous year*
-
-- *Pandemic Impact: Both 2020 and 2021 recorded sharp downturns, as Revenue and Profit declined by 49% and 89%, respectively, reflecting possible market disruptions*
-
-- *Top Markets: The United States led in performance, generating $29.8M in revenue — 380% higher than Canada, the next best market*
-
-- *Product Category Performance: Computers delivered the highest sales and profitability, while Games & Toys underperformed across all metrics*
-
-- *High-Margin Segments: The Music, Movies & Audio category achieved the highest profit margin at 61%, signaling strong returns relative to cost*
-
-- *Seasonality Trend: Revenue and Profit peaked notably in January, February, and December, suggesting strong seasonal demand during the winter and holiday periods*
-
-- *Customer Insights: Matthew Flemming ranked as the highest-spending customer, contributing $61,872 in total purchases*
-
-- *Customer Retention Challenge: In 2021, new customer acquisition dropped by 92.9% and returning customers fell by 85.6%, highlighting the need for retention and loyalty initiatives*
+4. **Data Visualization**  
+   - Designed intuitive and interactive dashboards to answer core business questions and support data-driven decisions.  
 
 ---
 
-## 📊 Dashboard Visuals  
-**Interact with the dashboard here->** (https://app.powerbi.com/view?r=eyJrIjoiYTNjOWJmOWMtNWRkZC00NzQ0LTg1OWEtMzM5ZWRiOWQwYjRhIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)
+## 💡 Key Insights  
+
+- **Overall Performance:** Total **Revenue $55M**, **Cost $23M**, **Profit $32M**, with a **58.6% profit margin** and **198K units sold**.  
+- **Growth Trend:** In **2018**, all key metrics (Cost, Quantity, Revenue, Profit) grew by **over 70% YoY**.  
+- **Pandemic Impact:** **2020–2021** saw sharp declines — **Revenue down 49%** and **Profit down 89%**.  
+- **Top Markets:** The **U.S.** led with **$29.8M revenue**, **380% higher than Canada**, the next best-performing market.  
+- **Product Performance:** **Computers** generated the highest revenue and profit; **Games & Toys** underperformed.  
+- **High-Margin Segment:** **Music, Movies & Audio** achieved the highest profit margin at **61%**.  
+- **Seasonality:** Sales peaked in **January, February, and December**, showing strong holiday demand patterns.  
+- **Customer Insights:** **Matthew Flemming** emerged as the top customer with **$61,872** total spend.  
+- **Customer Retention:** In **2021**, **new customers dropped by 92.9%** and **returning customers by 85.6%**, signaling urgent retention issues.  
 
 ---
 
-## 📝 Conclusion  
-The analysis reveals a strong overall business performance with impressive profitability and dominant U.S. market share. However, the sharp revenue decline in 2020–2021 and the significant drop in customer retention signal emerging risks.
+## 📊 Dashboard Visualization  
+👉 **[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTNjOWJmOWMtNWRkZC00NzQ0LTg1OWEtMzM5ZWRiOWQwYjRhIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)**  
 
-## Recommendation
-1.**Strengthen customer retention programs**
-- Launch loyalty rewards, targeted re-engagement campaigns, and personalized offers for returning customers.
+---
 
-2. **Diversification**
-- Diversify market focus by expanding high-performing product categories (e.g., Computers, Music & Audio) into underperforming regions like France, Netherland and Italy.
+## 🧾 Conclusion  
+The analysis reveals a **profitable and resilient business** with strong performance in the U.S. market and high-margin product segments.  
+However, the **sharp revenue decline (2020–2021)** and **customer attrition** highlight emerging operational and market challenges.  
 
-3. **Leverage**
-- Leverage seasonal trends by optimizing inventory and marketing spend around peak months (January, February, and December).
+---
 
-4. **Survey and Investigation**
-- Carry out customer survey and investigate declining segments such as Games & Toys to understand customer behavior and reposition or discontinue low-performing products.
+## 🎯 Recommendations  
+
+1. **Enhance Customer Retention Programs**  
+   - Introduce loyalty rewards, personalized offers, and re-engagement campaigns.  
+
+2. **Market Diversification**  
+   - Expand high-performing product categories (e.g., *Computers*, *Music & Audio*) into underperforming regions such as *France, Netherlands,* and *Italy*.  
+
+3. **Leverage Seasonality**  
+   - Optimize inventory and marketing spend around **January, February, and December** to maximize profitability.  
+
+4. **Investigate Underperforming Segments**  
+   - Conduct customer surveys and performance audits for **Games & Toys** to guide repositioning or product discontinuation.  
 
 ---
 
 ## 📬 Contact  
-If you’d like to collaborate or learn more about this project, feel free to connect:  
-- **Name:** Opeyemi Ayodeji
-- **LinkedIn:** [(https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)]  
-- **Email:** [sopeyemi65@gmail.com]  
+Let’s connect or collaborate on data analytics and BI projects!  
+
+- **Name:** Opeyemi Ayodeji  
+- **LinkedIn:** [Opeyemi Ayodeji](https://www.linkedin.com/in/opeyemi-ayodeji-86a696b0/)  
+- **Email:** sopeyemi65@gmail.com  
 
 ---
