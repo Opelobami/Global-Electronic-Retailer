@@ -1,18 +1,22 @@
 # Global-Electronics-Retailer
 A comprehensive analysis of global electronics retailer, exploring key performance metrics across sales, customers, stores, exchange rate, and products. The project leverages data analytics to uncover patterns, performance gaps, and growth opportunities within the retail ecosystem.
+
 ---
 
 ## 📌 Overview
 This project presents an exploratory analysis of global retail operations with a focus on understanding sales trends, customer behavior, product performance, and store efficiency. By transforming raw data into actionable insights, the analysis aims to support data-driven decision-making, enhance customer retention, and identify opportunities for revenue growth.
+
 ---
 
 ## 📊 Dataset  
 - **Source:** [PowerBI Bootcamp 10]  
 - **Key Fields:** Customer Key, Name, Birthday, Zipcode Product Name, Brand, Color, Unit Cost, Unit Price, Order Date, Delivery Date, Store Key, State, Country.  
+
 ---
 
 ## 🛠️ Tools & Technologies  
 - **PowerBI** – ETL done using Power Query. Data Modeling, Calendar and Measure tables created. Interactice Dashboards and Visualizations for Stakeholders.
+
 ---
 
 ## 🔎 Analysis Steps
@@ -35,15 +39,23 @@ This project presents an exploratory analysis of global retail operations with a
 ---
 
 ## 📈 Key Insights  
-- *KPI indicated Total Revenue to be $55m, Total cost $23m, Total Quantity Sold 198K, Profit $32m and Profit margin 58.58%*
-- *2018 saw a sharp increase in Cost, Quantity, Revenue and Profit by over 70% compared to Last Year*
-- *In 2020 and 2021, Cost, Quantity, Revenue and Profit dropped by 49% and 89% respectively*
-- *United State top the table as best performing country in terms of Revenue generating $29.8m and 380.6% higher than the second best; Canada*
-- *Computers sells the best in terms of Revenue and Profit while Games and Toys sold the least*
-- *With a profit margin of 61%, Music, Movies and Audio performed best* 
-- *Revenue, Profit, and Quantity Trend shows January, February and December as the month that peaked most*
-- *Matthew Flemming top as the highest spending customer with a value of $61872*
-- *92.9% of new customers and 85.6% of returning customers dropped in 2021.
+- *Overall Performance: The retailer achieved a total revenue of $55M, total cost of $23M, and total profit of $32M, resulting in a strong profit margin of 58.6% across 198K units sold*
+
+- *Year-over-Year Growth: In 2018, the business experienced significant expansion — with Cost, Quantity, Revenue, and Profit increasing by over 70% compared to the previous year*
+
+- *Pandemic Impact: Both 2020 and 2021 recorded sharp downturns, as Revenue and Profit declined by 49% and 89%, respectively, reflecting possible market disruptions*
+
+- *Top Markets: The United States led in performance, generating $29.8M in revenue — 380% higher than Canada, the next best market*
+
+- *Product Category Performance: Computers delivered the highest sales and profitability, while Games & Toys underperformed across all metrics*
+
+- *High-Margin Segments: The Music, Movies & Audio category achieved the highest profit margin at 61%, signaling strong returns relative to cost*
+
+- *Seasonality Trend: Revenue and Profit peaked notably in January, February, and December, suggesting strong seasonal demand during the winter and holiday periods*
+
+- *Customer Insights: Matthew Flemming ranked as the highest-spending customer, contributing $61,872 in total purchases*
+
+- *Customer Retention Challenge: In 2021, new customer acquisition dropped by 92.9% and returning customers fell by 85.6%, highlighting the need for retention and loyalty initiatives*
 
 ---
 
