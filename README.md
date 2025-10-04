@@ -18,17 +18,18 @@ This project presents an exploratory analysis of global retail operations with a
 1. **Data Preparation:**
 - ETL done using Power query to ensure data accuracy, integrity and also standardized formats.
 
-2. **Data Modeling**
+2. **Data Modeling:**
 - Created Fact and Dimension table.
 - Linked Dimension table to Fact table with the unique identifier.
 
-3. **Data Analysis**
+3. **Data Analysis:**
 - Created Calendar table by writing DAX.
 - Created Measure table, YOY and Color table by writing DAX.
 - Created Calculated columns for Age, Age band, First-order-month, Store Age and Store Bucket.
 - Analyzed data to uncover insights and patterns that solve key business questions
 
-4. **Data Visualization:** Built interactive reports that answers key business questions and made recommendations that drives business growth.
+4. **Data Visualization:**
+- Built interactive reports that answers key business questions and made recommendations that drives business growth.
 
 ---
 
@@ -44,11 +45,9 @@ This project presents an exploratory analysis of global retail operations with a
 - *92.9% of new customers and 85.6% of returning customers dropped in 2021.
 
 ---
+
 ## 📊 Dashboard Visuals  
 ![Interact with the dashboard here] (https://app.powerbi.com/view?r=eyJrIjoiYTNjOWJmOWMtNWRkZC00NzQ0LTg1OWEtMzM5ZWRiOWQwYjRhIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)
-
-### 6. Risk Intelligence  
-![From Complaint to Strategy] (https://drive.google.com/file/d/1WuLtYxZX0Tp0ZxERRns5SqycQatvXtrf/view?usp=drive_link)
 
 ---
 
