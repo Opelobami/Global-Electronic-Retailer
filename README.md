@@ -1,11 +1,11 @@
-# 🌎 Global Electronics Retailer – Power BI Business Analysis  
+# Global Electronics Retailer - Power BI Business Analysis  
 
 A data-driven business intelligence project analyzing a **global electronics retailer’s** performance across **sales, products, customers, and regions** using **Microsoft Power BI**.  
 This project translates complex retail data into actionable insights that guide **strategic decisions, customer retention, and market expansion**.
 
 ---
 
-## 🏁 Project Overview  
+## Project Overview  
 
 This analysis serves as a **strategic diagnostic report** designed for retail executives and stakeholders seeking to understand what drives performance across markets and how to sustain long-term profitability.  
 
@@ -15,20 +15,20 @@ The goal is to:
 - Highlight **growth opportunities** by region and product category
 - Provide a roadmap for **data-driven decision-making**
 
-The insights presented here allow decision-makers to **see the story behind the numbers** — pinpointing what’s working, what’s weakening, and what actions will move the business forward.
+The insights presented here allow decision-makers to **see the story behind the numbers**, identify what’s working, what’s weakening, and what actions will move the business forward.
 
 ---
 
-## 🧩 Data Collection & Methodology  
+## Data Collection & Methodology  
 
 | Step | Description |
 |------|--------------|
-| **Data Source** | Power BI Bootcamp (Dataset 10) containing real-world simulated retail data. |
+| **Data Source** | Tina Okwonko Power BI Bootcamp 10 slack community. |
 | **Scope** | Covers global transactions, customer demographics, product lines, store operations, and exchange rates. |
-| **Cleaning & Preparation** | Performed in **Power Query** – standardized column names, corrected data types, removed duplicates, and validated relationships. |
+| **Cleaning & Preparation** | Performed in **Power Query**: Data was a clean data. |
 | **Modeling** | Designed a star schema using **Fact** and **Dimension** tables (Sales, Product, Customer, Store, Calendar). |
 | **Analysis** | Used **DAX** for calculated measures (Profit Margin, YOY Growth, Customer Retention) and trend evaluation. |
-| **Visualization** | Built six interactive dashboards visualizing KPIs, performance trends, and market intelligence. |
+| **Visualization** | Built three interactive dashboards visualizing KPIs, Product & category, and Customer & store. |
 
 ---
 
@@ -43,7 +43,7 @@ The insights presented here allow decision-makers to **see the story behind the 
 
 ---
 
-## 💡 Why This Project Matters  
+## Why This Project Matters  
 
 In a global market where consumer behavior and product demand shift rapidly, **data clarity defines competitive advantage**.  
 This project helps stakeholders:
@@ -56,7 +56,7 @@ By making decisions guided by these insights, leaders can **sustain growth**, **
 
 ---
 
-## 📊 Key Insights  
+## Key Insights  
 
 | **Insight Area** | **Observation** |
 |------------------|-----------------|
@@ -72,16 +72,16 @@ By making decisions guided by these insights, leaders can **sustain growth**, **
 
 ---
 
-## 🧠 Key Takeaways  
+## Key Takeaways  
 
-- **Performance is strong but fragile** — profitability relies heavily on a few products and regions.  
+- **Performance is strong but fragile:** profitability relies heavily on a few products and regions.  
 - **Customer churn** is the biggest threat to future revenue.  
 - **The U.S. market** drives success but over-reliance increases risk exposure.  
-- **Seasonality patterns** are predictable — strategic marketing and stock optimization can double revenue during peak months.  
+- **Seasonality patterns** are predictable; strategic marketing and stock optimization can double revenue during peak months.  
 
 ---
 
-## 🎯 Recommendations  
+## Recommendations  
 
 | **Focus Area** | **Action Plan** | **Expected Benefit** |
 |----------------|----------------|----------------------|
@@ -89,11 +89,10 @@ By making decisions guided by these insights, leaders can **sustain growth**, **
 | **Market Diversification** | Expand top categories (*Computers, Music & Audio*) into Europe and Asia to reduce U.S. dependency. | Boosts global presence and mitigates regional downturns. |
 | **Seasonal Optimization** | Scale up promotions and inventory during Q1 and Q4. | Maximizes profit from predictable seasonal demand. |
 | **Product Strategy** | Audit and reposition underperforming lines (*Games & Toys*). | Improves portfolio profitability and brand focus. |
-| **Data-Driven Culture** | Adopt Power BI dashboards organization-wide for ongoing monitoring. | Enables proactive management decisions. |
 
 ---
 
-## ⚠️ Risks of Inaction  
+## Risks of Inaction  
 
 If the current trends continue unaddressed:
 - **Revenue volatility** may persist, especially in post-pandemic markets.  
@@ -102,7 +101,7 @@ If the current trends continue unaddressed:
 
 ---
 
-## 🌟 Benefits of Acting on Insights  
+## Benefits of Acting on Insights  
 
 Implementing the recommendations will:
 - Strengthen **customer loyalty and lifetime value**
@@ -120,7 +119,7 @@ Implementing the recommendations will:
 
 ## 💬 Conclusion  
 
-The Global Electronics Retailer remains **profitable but at a crossroads** — success today depends on how quickly leaders act on insights.  
+The Global Electronics Retailer remains **profitable but at a crossroads.** Success depends on how quickly leaders act on insights.  
 Data shows both the **potential for growth** and the **risks of stagnation**.  
 By embracing analytics as a decision-making compass, the company can unlock new markets, retain valuable customers, and future-proof its operations.  
 
