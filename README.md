@@ -113,7 +113,7 @@ Implementing the recommendations will:
 
 ## 📊 Dashboard Access  
 
-🔗 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTNjOWJmOWMtNWRkZC00NzQ0LTg1OWEtMzM5ZWRiOWQwYjRhIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)**  
+🔗 **[View Power BI Dashboard](https://drive.google.com/file/d/1DYADQhzzfFxq3U2RARfvNJ6f_tJRLwXv/view?usp=drive_link)**  
 
 ---
 
